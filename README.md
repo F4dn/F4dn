@@ -67,8 +67,8 @@ class Fardeen:
 | [**Doctor Appointment Platform**](https://app.sageturtle.in/therapist) | React · Node.js · MongoDB | Full-stack with role-based auth & REST APIs |
 | [**RAG Chatbot**](https://github.com/F4dn/chatbot) | Python · LangChain · ChromaDB · Docker | Hallucination detection + vector retrieval |
 | [**Sketch-to-Image Synthesis**](#) | PyTorch · Stable Diffusion · ControlNet | Evaluated with FID / SSIM / PSNR |
-| [**Sorting Visualizer**](https://f4dn-sorting-visualizer.netlify.app/) | HTML · CSS · JS | Live algorithm visualizer |
 | [**Plagiarism Detector**](https://github.com/Student-plagiarism) | React · Flask · Python | NLP-based similarity detection |
+| [**Sorting Visualizer**](https://f4dn-sorting-visualizer.netlify.app/) | HTML · CSS · JS | Live algorithm visualizer |
 
 ---
 
